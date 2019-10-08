@@ -7,7 +7,7 @@
 
 .container {
   width: 320px;
-  background-color: black; 
+  background-color: black;
   border: 5px solid black;
   border-radius: 2%;
 }
@@ -27,7 +27,7 @@ button:hover {
 }
 
 .clearbtn {
-  width: 160px;
+  width: 238px;
   background-color: red;
 }
 
@@ -35,7 +35,10 @@ button:hover {
   width: 160px;
 }
 
-#divide, #multiply, #subtract, #add {
+#divide,
+#multiply,
+#subtract,
+#add {
   background-color: #d4af37;
 }
 
