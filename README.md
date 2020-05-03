@@ -1,6 +1,6 @@
-# Calculator [Live demo](https://javascript-calculator-reactjs.herokuapp.com/)
+# Calculator 
 
-A basic calculator created using react.js
+A basic calculator created using react.js [Live demo](https://javascript-calculator-reactjs.herokuapp.com/)
 
 ### Installations
 
